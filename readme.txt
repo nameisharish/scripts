@@ -10,7 +10,7 @@ e="root"
 
 if
        [ "$d" = "$e" ]; then       
-echo "$a+$b+$c"
+echo "$a$b$c"
 
 else
 	echo "please try again"
